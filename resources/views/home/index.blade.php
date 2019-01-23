@@ -13,8 +13,9 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="mu-single-slide-content">
-                                    <h1>Welcome to b-hero</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,</p>
+                                    <h1>现在的产品系列涵盖了各行各业：</h1>
+                                    <p>智能制造、造纸、印刷包装、邮政、轮胎橡胶、光伏、物流机场、农业机械、畜牧机械、煤炭、钢铁、风能、食品、纺织、汽车、石材加工、玻璃加工等。
+</p>
                                     <a class="mu-primary-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
                                 </div>
                             </div>
@@ -32,8 +33,11 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="mu-single-slide-content">
-                                    <h1>We Promote Your Business</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,</p>
+                                    <h1>Derco 传送带</h1>
+                                    <p>2016年成为荷兰DERCO，品牌产品，起步时在中国做的第一个推广者，DERCO是世界上著名的输送带供应商，齐全的产品系列，从聚酯输送带，轻型橡胶输送带，产品应用很多。
+日志动力是中国的代理商。
+
+</p>
                                     <a class="mu-primary-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
                                 </div>
                             </div>
@@ -51,8 +55,10 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="mu-single-slide-content">
-                                    <h1>Free Multipurpose Template</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,</p>
+                                    <h1>2006年代理德国Optibelt欧皮特</h1>
+                                    <p>德国欧皮特(Optibelt)公司是著名的传动皮带制造厂家，有100多年的生产历史，在欧州有5家工厂，日产皮带20万根。该产品均通过了ISO9001的质量认证并在世界上享有极高的信誉，拥有多项专利发明。
+日志动力是德国欧皮特(Optibelt)产品在中国市场的授权代理商
+</p>
                                     <a class="mu-primary-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
                                 </div>
                             </div>
