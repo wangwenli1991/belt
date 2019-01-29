@@ -84,7 +84,15 @@
                     </div>
 
                   </li>
-                  <li class="nav-item"><a href="">行情报价</a></li>
+                  <li class="nav-item">
+                    <a class="dropdown-toggle" href="" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">行情报价</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                       <a class="dropdown-item" href="">耐热</a>
+                       <a class="dropdown-item" href="">尼龙材质/用于矿山港口</a>
+                       <a class="dropdown-item" href=""></a>
+                       <a class="dropdown-item" href=""></a>
+                    </div>
+                </li>
                   <li class="nav-item"><a href="">应用行业</a></li>
                    <li class="nav-item dropdown">
                         <a class="dropdown-toggle" href="" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">规格型号</a>
