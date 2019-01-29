@@ -84,7 +84,7 @@
                     </div>
 
                   </li>
-                  <li class="nav-item">
+                  <li class="nav-item dropdown">
 
                     <a class="dropdown-toggle" href="" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">行情报价</a>
 
