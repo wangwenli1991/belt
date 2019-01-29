@@ -60,7 +60,9 @@
                   <li class="nav-item active">
                     <a href="index.html">品牌介绍</a>
                   </li>
-                  <li class="nav-item"><a href="about-us.html">材质分类</a>
+                  <li class="nav-item dropdown">
+                    <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">材质分类</a>
+
 
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                        <a class="dropdown-item" href="">橡胶</a>
