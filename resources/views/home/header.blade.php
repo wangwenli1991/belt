@@ -61,11 +61,11 @@
                     <a class="dropdown-toggle" href="" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">品牌介绍</a>
                     
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                       <a class="dropdown-item" href="">derco输送带</a>
-                       <a class="dropdown-item" href="">fenner芬纳活络带</a>
-                       <a class="dropdown-item" href="">Optibelt欧皮特动力带三角带</a>
-                       <a class="dropdown-item" href="">novo毛毡带</a>
-                       <a class="dropdown-item" href="">S=CPLUS毛毡带</a>
+                       <a class="dropdown-item" href="">荷兰derco输送带同步带</a>
+                       <a class="dropdown-item" href="">美国fenner芬纳活络带</a>
+                       <a class="dropdown-item" href="">德国Optibelt欧皮特动力带三角带</a>
+                       <a class="dropdown-item" href="">中国自产novo毛毡带</a>
+                       <a class="dropdown-item" href="">中国自产S=CPLUS毛毡带</a>
                     </div>
 
 
@@ -73,7 +73,7 @@
 
                   </li>
                   <li class="nav-item dropdown">
-                    <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">材质分类</a>
+                    <a class="dropdown-toggle" href="" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">材质分类</a>
 
 
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -84,10 +84,10 @@
                     </div>
 
                   </li>
-                  <li class="nav-item"><a href="services.html">行情报价</a></li>
-                  <li class="nav-item"><a href="portfolio.html">应用行业</a></li>
+                  <li class="nav-item"><a href="">行情报价</a></li>
+                  <li class="nav-item"><a href="">应用行业</a></li>
                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">规格型号</a>
+                        <a class="dropdown-toggle" href="" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">规格型号</a>
                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                           <a class="dropdown-item" href="">输送带生产厂家</a>
                           <a class="dropdown-item" href="">材质</a>
@@ -133,8 +133,8 @@
                           <a class="dropdown-item" href="">弹性</a>
                         </div>
                     </li>
-                    <li class="nav-item"><a href="contact.html">联系购买</a></li>
-                    <li class="nav-item"><a href="404.html">404 Page</a></li>
+                    <li class="nav-item"><a href="">联系购买</a></li>
+                    <li class="nav-item"><a href="">404 Page</a></li>
                 </ul>
               </div>
             </nav>
