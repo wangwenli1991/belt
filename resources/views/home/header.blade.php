@@ -64,7 +64,7 @@
                   <li class="nav-item"><a href="services.html">行情报价</a></li>
                   <li class="nav-item"><a href="portfolio.html">应用行业</a></li>
                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog</a>
+                        <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">规格型号</a>
                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                           <a class="dropdown-item" href="blog.html">Blog Archive</a>
                           <a class="dropdown-item" href="blog-single.html">Blog Single</a>
