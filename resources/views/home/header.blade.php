@@ -60,7 +60,16 @@
                   <li class="nav-item active">
                     <a href="index.html">品牌介绍</a>
                   </li>
-                  <li class="nav-item"><a href="about-us.html">皮带分类</a></li>
+                  <li class="nav-item"><a href="about-us.html">材质分类</a>
+
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                       <a class="dropdown-item" href="">橡胶</a>
+                       <a class="dropdown-item" href="">pvc</a>
+                       <a class="dropdown-item" href="">pvk</a>
+                       <a class="dropdown-item" href="">尼龙</a>
+                    </div>
+
+                  </li>
                   <li class="nav-item"><a href="services.html">行情报价</a></li>
                   <li class="nav-item"><a href="portfolio.html">应用行业</a></li>
                    <li class="nav-item dropdown">
