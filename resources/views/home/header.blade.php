@@ -77,10 +77,15 @@
 
 
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                       <a class="dropdown-item" href="">橡胶</a>
+                       <a class="dropdown-item" href="">橡胶/固体物料输送的构件</a>
                        <a class="dropdown-item" href="">pvc</a>
                        <a class="dropdown-item" href="">pvk</a>
-                       <a class="dropdown-item" href="">尼龙</a>
+                       <a class="dropdown-item" href="">耐高温输送带/耐高温寿命长带体轻</a>
+                       <a class="dropdown-item" href="">聚酯输送带/强力高带体薄重量轻</a>
+                       <a class="dropdown-item" href="">轻型输送带/PVC橡塑制品输送带</a>
+                       <a class="dropdown-item" href="">花纹输送带/工作面为花纹状输送带</a>
+                       <a class="dropdown-item" href="">耐油输送带/适合于输送含油物料</a>
+                       <a class="dropdown-item" href="">尼龙/用于矿山港口</a>
                     </div>
 
                   </li>
@@ -89,10 +94,13 @@
                     <a class="dropdown-toggle" href="" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">行情报价</a>
 
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                       <a class="dropdown-item" href="">耐热</a>
-                       <a class="dropdown-item" href="">尼龙材质/用于矿山港口</a>
-                       <a class="dropdown-item" href=""></a>
-                       <a class="dropdown-item" href=""></a>
+                       <a class="dropdown-item" href="">普通</a>
+                       <a class="dropdown-item" href="">不锈钢</a>
+                       <a class="dropdown-item" href="">大倾角波状挡边带</a>
+                       <a class="dropdown-item" href="">裙边带</a>
+                       <a class="dropdown-item" href="">钢丝绳</a>
+                       <a class="dropdown-item" href="">辊筒</a>
+                       <a class="dropdown-item" href="">阻燃</a>
                     </div>
 
 
