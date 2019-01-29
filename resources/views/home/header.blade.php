@@ -57,8 +57,20 @@
 
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto mu-navbar-nav">
-                  <li class="nav-item active">
-                    <a href="index.html">品牌介绍</a>
+                  <li class="nav-item active dropdown">
+                    <a class="dropdown-toggle" href="" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">品牌介绍</a>
+                    
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                       <a class="dropdown-item" href="">derco输送带</a>
+                       <a class="dropdown-item" href="">fenner芬纳活络带</a>
+                       <a class="dropdown-item" href="">Optibelt欧皮特动力带三角带</a>
+                       <a class="dropdown-item" href="">novo毛毡带</a>
+                       <a class="dropdown-item" href="">S=CPLUS毛毡带</a>
+                    </div>
+
+
+
+
                   </li>
                   <li class="nav-item dropdown">
                     <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">材质分类</a>
