@@ -300,7 +300,7 @@
 
                                             <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="4">
                                                <a class="mu-imglink" href="{{ url('/belt/images/portfolio/img-1.jpg') }}" title="PAINTING">
-                                                    <img class="img-responsive" src="assets/images/portfolio/img-1.jpg" alt="image">
+                                                    <img class="img-responsive" src="{{ asset('/belt/images/portfolio/img-1.jpg') }}" alt="image">
                                                     <div class="mu-filter-item-content">
                                                         <h4 class="mu-filter-item-title">PAINTING</h4>
                                                         <span class="fa fa-long-arrow-right"></span>
