@@ -66,8 +66,44 @@
                    <li class="nav-item dropdown">
                         <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">规格型号</a>
                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                          <a class="dropdown-item" href="blog.html">Blog Archive</a>
-                          <a class="dropdown-item" href="blog-single.html">Blog Single</a>
+                          <a class="dropdown-item" href="">输送带生产厂家</a>
+                          <a class="dropdown-item" href="">无边</a>
+                          <a class="dropdown-item" href="">槽型</a>
+                          <a class="dropdown-item" href="">强力</a>
+                          <a class="dropdown-item" href="">网式</a>
+                          <a class="dropdown-item" href="">180度</a>
+                          <a class="dropdown-item" href="">波状</a>
+                          <a class="dropdown-item" href="">耐热耐高温</a>
+                          <a class="dropdown-item" href="">立式</a>
+                          <a class="dropdown-item" href="">特宽</a>
+                          <a class="dropdown-item" href="">透明</a>
+                          <a class="dropdown-item" href="">重型</a>
+                          <a class="dropdown-item" href="">水平</a>
+                          <a class="dropdown-item" href="">工业</a>
+                          <a class="dropdown-item" href="">带孔</a>
+                          <a class="dropdown-item" href="">大型</a>
+                          <a class="dropdown-item" href="">管状</a>
+                          <a class="dropdown-item" href="">圆通</a>
+                          <a class="dropdown-item" href="">ep300</a>
+                          <a class="dropdown-item" href="">分层带</a>
+                          <a class="dropdown-item" href="">网带</a>
+                          <a class="dropdown-item" href="">耐酸碱</a>
+                          <a class="dropdown-item" href="">V型</a>
+                          <a class="dropdown-item" href="">带边</a>
+                          <a class="dropdown-item" href="">4mm</a>
+                          <a class="dropdown-item" href="">带式</a>
+                          <a class="dropdown-item" href="">国际</a>
+                          <a class="dropdown-item" href="">环形</a>
+                          <a class="dropdown-item" href="">链式</a>
+                          <a class="dropdown-item" href="">橡胶</a>
+                          <a class="dropdown-item" href="">尼龙</a>
+                          <a class="dropdown-item" href="">pvc</a>
+                          <a class="dropdown-item" href="">高强度</a>
+                          <a class="dropdown-item" href="">环形</a>
+                          <a class="dropdown-item" href="">超宽</a>
+                          <a class="dropdown-item" href="">普通</a>
+                          <a class="dropdown-item" href="">工厂</a>
+                          <a class="dropdown-item" href="">弹性</a>
                         </div>
                     </li>
                     <li class="nav-item"><a href="contact.html">联系购买</a></li>
