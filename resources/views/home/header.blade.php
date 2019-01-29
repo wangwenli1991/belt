@@ -67,6 +67,10 @@
                         <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">规格型号</a>
                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                           <a class="dropdown-item" href="">输送带生产厂家</a>
+                          <a class="dropdown-item" href="">材质</a>
+                          <a class="dropdown-item" href="">厚度</a>
+                          <a class="dropdown-item" href="">颜色</a>
+                          <a class="dropdown-item" href="">表面花纹</a>
                           <a class="dropdown-item" href="">无边</a>
                           <a class="dropdown-item" href="">槽型</a>
                           <a class="dropdown-item" href="">强力</a>
