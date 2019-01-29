@@ -60,9 +60,9 @@
                   <li class="nav-item active">
                     <a href="index.html">品牌介绍</a>
                   </li>
-                  <li class="nav-item"><a href="about-us.html">About us</a></li>
-                  <li class="nav-item"><a href="services.html">Services</a></li>
-                  <li class="nav-item"><a href="portfolio.html">Portfolio</a></li>
+                  <li class="nav-item"><a href="about-us.html">皮带分类</a></li>
+                  <li class="nav-item"><a href="services.html">行情报价</a></li>
+                  <li class="nav-item"><a href="portfolio.html">应用行业</a></li>
                    <li class="nav-item dropdown">
                         <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog</a>
                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -70,7 +70,7 @@
                           <a class="dropdown-item" href="blog-single.html">Blog Single</a>
                         </div>
                     </li>
-                    <li class="nav-item"><a href="contact.html">Contact us</a></li>
+                    <li class="nav-item"><a href="contact.html">联系购买</a></li>
                     <li class="nav-item"><a href="404.html">404 Page</a></li>
                 </ul>
               </div>
