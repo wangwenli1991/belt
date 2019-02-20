@@ -4,9 +4,9 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>橡胶输送带_挡边传送带_橡胶输送带--上海皮带生产代理厂家</title>
+    <title>物料传输带-PVC传送带_输送带_普通运输带_橡胶挡边输送带厂家</title>
     <meta name="keywords" content="挡边输送带,橡胶输送带，耐热输送带，输送带厂家">
-    <meta name="description" content="上海传送带报关代理厂家，代理批次型号品牌包括欧皮特，derco，芬纳，帆布带，尼龙橡胶带，托辊，滚筒传送带，价格厂家直销">
+    <meta name="description" content="我们的输送带价格保证市场价！物料传输带专注动力传输物料输送行业将近20年，有着良好的口碑，目前已在山东设立分公司，是一家专业的输送带,动力传动带生产销售代理公司。“公开报价、规范流程、贴心服务”是我们的宗旨。上海传送带报关代理厂家，代理批次型号品牌包括欧皮特，derco，芬纳，帆布带，尼龙橡胶带，托辊，滚筒传送带，价格厂家直销">
 
 
     <!-- Favicon -->
@@ -48,7 +48,7 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light mu-navbar">
                 <!-- Text based logo -->
-                <a class="navbar-brand mu-logo" href="{{url('/') }}"><span>输送带，输送带厂家</span></a>
+                <a class="navbar-brand mu-logo" href="{{url('/') }}"><span>橡胶输送带厂家</span></a>
                 <!-- image based logo -->
                 <!-- <a class="navbar-brand mu-logo" href="index.html"><img src="assets/images/logo.png" alt="logo"></a> -->
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -258,7 +258,14 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="mu-footer-bottom-area">
-                            <p class="mu-copy-right">&copy; Copyright markups. All right reserved. 进口传送带公司 <a href="#" target="_blank" title="挡边输送带">厂家直销输送带</a> -  <a href="" title="橡胶带" target="_blank">橡胶输送带</a></p>
+                            <p class="mu-copy-right">&copy; Copyright. All right reserved. 
+
+                             <a href="http://belt.goodcehua.com" target="_blank" title="挡边输送带">输送带</a> 
+
+                             -  <a href="" title="橡胶带" target="_blank">橡胶输送带</a>
+                             -  <a href="" title="橡胶带" target="_blank">输送带厂家</a>
+
+                           </p>
                         </div>
                     </div>
                 </div>
