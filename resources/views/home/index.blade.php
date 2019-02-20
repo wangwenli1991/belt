@@ -151,7 +151,7 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="mu-title">
-                                        <h2>Our exclusive services</h2>
+                                        <h2>产品的主要类别 </h2>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa cum sociis.</p>
                                     </div>
                                 </div>
@@ -166,8 +166,8 @@
                                                 <div class="mu-single-service">
                                                     <div class="mu-single-service-icon"><i class="fa fa-shopping-cart" aria-hidden="true"></i></div>
                                                     <div class="mu-single-service-content">
-                                                        <h3>E-Commerce</h3>
-                                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor commodo .</p>
+                                                        <h3>普通输送带材质</h3>
+                                                        <p>普通输送带-PVC、PU、PE 、PVK 、硅胶 、帆布、橡胶、毛毡、聚乙烯、塑料链板、模块网、聚丙烯、尼龙、铁氟龙</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -177,8 +177,8 @@
                                                 <div class="mu-single-service">
                                                     <div class="mu-single-service-icon"><i class="fa fa-bullhorn" aria-hidden="true"></i></div>
                                                     <div class="mu-single-service-content">
-                                                        <h3>Online Marketing</h3>
-                                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor commodo .</p>
+                                                        <h3>特殊性能输送带分类</h3>
+                                                        <p>特殊性能输送带-耐热耐高温防火、耐酸碱、耐磨、耐油、耐腐蚀、耐灼烧、高强度输送带</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -188,8 +188,8 @@
                                                 <div class="mu-single-service">
                                                     <div class="mu-single-service-icon"><i class="fa fa-laptop" aria-hidden="true"></i></div>
                                                     <div class="mu-single-service-content">
-                                                        <h3>Web Design</h3>
-                                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor commodo .</p>
+                                                        <h3>都有哪些行业用得到输送带</h3>
+                                                        <p>矿山冶金、港口船舶、建材水泥、农业食品、化工肥料、电力煤炭、玻璃造纸家电、电子、电器、机械、烟草、注塑、邮电、印刷、食品等各行各业,物件的组装、检测、调试、包装及运输</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -258,7 +258,7 @@
             <div class="mu-video-popup">
                 <div class="mu-video-iframe-area">
                     <a class="mu-video-close-btn" href="#"><i class="fa fa-times" aria-hidden="true"></i></a>
-                    <iframe width="854" height="480" src="https://www.youtube.com/embed/n9AVEl9764s" allowfullscreen></iframe>
+                    <iframe width="854" height="480" src="shipinlianjie" allowfullscreen></iframe>
                 </div>
             </div>
             <!-- End Video Popup -->
@@ -276,8 +276,8 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="mu-title">
-                                        <h2>Our Recent Project</h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa cum sociis.</p>
+                                        <h2>我们的所有产品</h2>
+                                        <p>我们的产品包括自产和代理的,有传送带,传动带,输送带,品牌有derco,opitebelt欧皮特,fenner芬纳,s-cplus毛毡带</p>
                                     </div>
                                 </div>
                             </div>
@@ -286,12 +286,12 @@
                                     <!-- Start Portfolio Filter -->
                                     <div class="mu-portfolio-filter-area">
                                         <ul class="mu-simplefilter">
-                                            <li class="active" data-filter="all">All<span>/</span></li>
-                                            <li data-filter="1">Web design<span>/</span> </li>
-                                            <li data-filter="2">Mobile Development<span>/</span></li>
-                                            <li data-filter="3">E-commerces<span>/</span></li>
-                                            <li data-filter="4"> Arts<span>/</span> </li>
-                                            <li data-filter="5">Branding</li>
+                                            <li class="active" data-filter="all">所有产品<span>/</span></li>
+                                            <li data-filter="1">输送带系列<span>/</span> </li>
+                                            <li data-filter="2">毛毡传送带<span>/</span></li>
+                                            <li data-filter="3">欧皮特动力带<span>/</span></li>
+                                            <li data-filter="4"> derco输送带<span>/</span> </li>
+                                            <li data-filter="5">fenner芬纳活络带</li>
                                         </ul>
                                     </div>
 
@@ -330,10 +330,10 @@
                                             </div>
 
                                             <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="1">
-                                                <a class="mu-imglink" href="assets/images/portfolio/img-4.jpg" title="WEB DESIGN">
+                                                <a class="mu-imglink" href="assets/images/portfolio/img-4.jpg" title="普通输送带">
                                                     <img class="img-responsive" src="assets/images/portfolio/img-4.jpg" alt="image">
                                                     <div class="mu-filter-item-content">
-                                                        <h4 class="mu-filter-item-title">WEB DESIGN</h4>
+                                                        <h4 class="mu-filter-item-title">普通输送带</h4>
                                                         <span class="fa fa-long-arrow-right"></span>
                                                     </div>
                                                 </a>
@@ -477,8 +477,8 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="mu-title">
-                                        <h2>Our Pricing Table</h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa cum sociis.</p>
+                                        <h2>我们产品的价格参考依据</h2>
+                                        <p>山东拥有自己的毛毡传送带,普通输送带生产加工厂,欧皮特三角带代理了十多年,其它品牌有derco,fenner芬纳等/</p>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
@@ -490,20 +490,20 @@
                                                         <span class="fa fa-user"></span>
                                                     </div>
                                                     <div class="mu-pricing-single-title">
-                                                        <h3>Basic</h3>
+                                                        <h3>输送带</h3>
                                                     </div>
                                                     <div class="mu-pricing-single-content">
                                                         <ul>
-                                                            <li>Lorem ipsum dolor sit amet.</li>
-                                                            <li>Consectetuer elit aeneaneget dolor.</li>
-                                                            <li>Aenean massa cum sociis natoque.</li>
-                                                            <li>Penatibus.</li>
+                                                            <li>普通材质PU,PE,PVK,橡胶,尼龙等</li>
+                                                            <li>挡边带</li>
+                                                            <li>煤矿,等环境</li>
+                                                            <li>derco运输带/输送带.</li>
                                                         </ul>
                                                     </div>
                                                     <div class="mu-single-pricebox">
                                                         <h4>29$<span>/month</span></h4>
                                                     </div>
-                                                    <a class="mu-buy-now-btn" href="#">Buy now</a>
+                                                    <a class="mu-buy-now-btn" href="#">在线询价</a>
                                                 </div>
                                             </li>
                                             <li class="mu-standard-pricing">
@@ -512,20 +512,20 @@
                                                         <span class="fa fa-lock"></span>
                                                     </div>
                                                     <div class="mu-pricing-single-title">
-                                                        <h3>Standard</h3>
+                                                        <h3>毛毡传送带</h3>
                                                     </div>
                                                     <div class="mu-pricing-single-content">
                                                         <ul>
-                                                            <li>Lorem ipsum dolor sit amet.</li>
-                                                            <li>Consectetuer elit aeneaneget dolor.</li>
-                                                            <li>Aenean massa cum sociis natoque.</li>
-                                                            <li>Penatibus.</li>
+                                                            <li>单面/双面/带线/不带线毛毡带</li>
+                                                            <li>耐切割/耐高温/耐低温/耐磨毛毡带</li>
+                                                            <li>切割机/切纸机毛毡带</li>
+                                                            <li>工厂/电子行业毛毡带</li>
                                                         </ul>
                                                     </div>
                                                     <div class="mu-single-pricebox">
                                                         <h4>99$<span>/month</span></h4>
                                                     </div>
-                                                    <a class="mu-buy-now-btn" href="#">Buy now</a>
+                                                    <a class="mu-buy-now-btn" href="#">在线询价</a>
                                                 </div>
                                             </li>
                                             <li>
@@ -534,20 +534,20 @@
                                                         <span class="fa fa-paper-plane"></span>
                                                     </div>
                                                     <div class="mu-pricing-single-title">
-                                                        <h3>Premium</h3>
+                                                        <h3>动力皮带</h3>
                                                     </div>
                                                     <div class="mu-pricing-single-content">
                                                         <ul>
-                                                            <li>Lorem ipsum dolor sit amet.</li>
-                                                            <li>Consectetuer elit aeneaneget dolor.</li>
-                                                            <li>Aenean massa cum sociis natoque.</li>
-                                                            <li>Penatibus.</li>
+                                                            <li>欧皮特三角带/同步带/楔形带</li>
+                                                            <li>三力士三角带/传动带/动力带</li>
+                                                            <li>fenner芬纳活络带</li>
+                                                            <li>毛毡动力传送带</li>
                                                         </ul>
                                                     </div>
                                                     <div class="mu-single-pricebox">
                                                         <h4>229$<span>/month</span></h4>
                                                     </div>
-                                                    <a class="mu-buy-now-btn" href="#">Buy now</a>
+                                                    <a class="mu-buy-now-btn" href="#">在线询价</a>
                                                 </div>
                                             </li>
                                         </ul>
@@ -613,8 +613,8 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="mu-title">
-                                        <h2>From Our Blog</h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa cum sociis.</p>
+                                        <h2>最新资讯</h2>
+                                        <p>皮带种类众多,使用和维护起来非常重要</p>
                                     </div>
                                 </div>
                                 <div class="col-md-12">

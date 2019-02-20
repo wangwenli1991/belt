@@ -236,8 +236,8 @@
                               <li class="media">
                                 <span class="fa fa-phone"></span>
                                 <div class="media-body">
-                                   <p>+00 123 456 789 00</p>
-                                    <p>+ 00 254 632 548 00</p>
+                                   <p>在线咨询皮带价格:156-0185-2720</p>
+                                    <p></p>
                                 </div>
                               </li>
                               <li class="media">
