@@ -2,6 +2,7 @@
 
 @section('shouye') 
 
+
     <!-- Start slider area -->
     <div id="mu-slider">
         <div class="mu-slide">
