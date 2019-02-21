@@ -153,7 +153,7 @@
                           <a class="dropdown-item" href="">弹性</a>
                         </div>
                     </li>
-                    <li class="nav-item"><a href="">联系购买</a></li>
+                    <li class="nav-item"><a href="">咨询价格</a></li>
                     <li class="nav-item"><a href="">404 Page</a></li>
                 </ul>
               </div>
